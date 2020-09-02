@@ -1,0 +1,880 @@
+[
+{
+    "model": "cars.car",
+    "pk": 1,
+    "fields": {
+        "car_title": "2017 Ferrari 488 GTB",
+        "state": "TX",
+        "city": "Austin",
+        "color": "white",
+        "model": "488 GTB",
+        "year": 2017,
+        "condition": "used",
+        "price": 40000,
+        "description": "<p>The&nbsp;<strong>Ferrari 488</strong>&nbsp;(Type F142M) is a&nbsp;<a href=\"https://en.wikipedia.org/wiki/Rear_mid-engine,_rear-wheel_drive_layout\" title=\"Rear mid-engine, rear-wheel drive layout\">mid-engine</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Sports_car\" title=\"Sports car\">sports car</a>&nbsp;produced by the Italian automobile manufacturer&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari\" title=\"Ferrari\">Ferrari</a>. The car replaced the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_458\" title=\"Ferrari 458\">458</a>, being the first mid-engine Ferrari to use a turbocharged V8 since the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_F40\" title=\"Ferrari F40\">F40</a>.</p>\r\n\r\n<p>The car is powered by a 3.9-litre&nbsp;<a href=\"https://en.wikipedia.org/wiki/Twin-turbocharged\" title=\"Twin-turbocharged\">twin-turbocharged</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/V8_engine\" title=\"V8 engine\">V8 engine</a>, smaller in displacement but generating a higher power output than the 458&#39;s&nbsp;<a href=\"https://en.wikipedia.org/wiki/Naturally_aspirated_engine\" title=\"Naturally aspirated engine\">naturally aspirated engine</a>. The 488 GTB was named &quot;The Supercar of the Year 2015&quot; by car magazine&nbsp;<a href=\"https://en.wikipedia.org/wiki/Top_Gear_(magazine)\" title=\"Top Gear (magazine)\"><em>Top Gear</em></a>, as well as becoming&nbsp;<em><a href=\"https://en.wikipedia.org/wiki/Motor_Trend\" title=\"Motor Trend\">Motor Trend</a></em>&#39;s 2017 &quot;Best Driver&#39;s Car&quot;.<a href=\"https://en.wikipedia.org/wiki/Ferrari_488#cite_note-7\">[7]</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jeremy_Clarkson\" title=\"Jeremy Clarkson\">Jeremy Clarkson</a>&nbsp;announced the 488 Pista as his 2019 Supercar of the Year.<a href=\"https://en.wikipedia.org/wiki/Ferrari_488#cite_note-8\">[8]</a>&nbsp;The 488 was succeeded by the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_F8_Tributo\" title=\"Ferrari F8 Tributo\">F8 Tributo</a>&nbsp;in February 2019.</p>",
+        "car_photo": "photod/2020/08/18/1902536891.jpg",
+        "car_photo_1": "photod/2020/08/18/1902536917.jpg",
+        "car_photo_2": "photod/2020/08/18/1902537043.jpg",
+        "car_photo_3": "photod/2020/08/18/1902537077.jpg",
+        "car_photo_4": "photod/2020/08/18/1902537082.jpg",
+        "features": "Air Conditioning,Seat Heating,Reversing Camera,Direct Fuel Injection",
+        "body_style": "sport",
+        "engine": "3.4L Mid-Engine V6",
+        "transmission": "automatic",
+        "interior": "grey",
+        "miles": 10000,
+        "doors": "3",
+        "passengers": 2,
+        "vin_no": "yghj98jbnijy76tgbjhg87",
+        "milage": 7,
+        "fuel_type": "petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2020-08-18T11:23:25Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 2,
+    "fields": {
+        "car_title": "2017 Ford Edge",
+        "state": "TX",
+        "city": "Dallas",
+        "color": "black",
+        "model": "edge",
+        "year": 2017,
+        "condition": "used",
+        "price": 20000,
+        "description": "<p>The&nbsp;<strong>Ford Edge</strong>&nbsp;is a range of&nbsp;<a href=\"https://en.wikipedia.org/wiki/Crossover_SUV\" title=\"Crossover SUV\">crossover SUVs</a>&nbsp;manufactured by the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company\" title=\"Ford Motor Company\">Ford Motor Company</a>. Introduced for the 2007 model year, the Edge is the first CUV marketed by Ford in North America; the model line is currently in its second generation. Deriving its name from a trim package of the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Ranger_(Americas)\" title=\"Ford Ranger (Americas)\">Ford Ranger</a>, the Ford Edge is slotted between the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Escape\" title=\"Ford Escape\">Ford Escape</a>&nbsp;and the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Explorer\" title=\"Ford Explorer\">Ford Explorer</a>&nbsp;within the Ford product line.</p>",
+        "car_photo": "photod/2020/08/18/1901478607_T4AirUa.jpg",
+        "car_photo_1": "photod/2020/08/18/1901478618_PyfdylX.jpg",
+        "car_photo_2": "photod/2020/08/18/1901478646_jNrqxCJ.jpg",
+        "car_photo_3": "photod/2020/08/18/1901478672_jxGe4c1.jpg",
+        "car_photo_4": "photod/2020/08/18/1901478687_XscUER9.jpg",
+        "features": "Cruise Control,Audio Interface,Air Conditioning",
+        "body_style": "SUV",
+        "engine": "3.4L Mid-Engine V6",
+        "transmission": "automatic",
+        "interior": "grey",
+        "miles": 15888,
+        "doors": "4",
+        "passengers": 3,
+        "vin_no": "JUI$57bkuGB32",
+        "milage": 55,
+        "fuel_type": "petrol",
+        "no_of_owners": "1",
+        "is_featured": false,
+        "created_date": "2020-08-18T11:59:03Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 3,
+    "fields": {
+        "car_title": "2017 Ford F-250 Super Duty",
+        "state": "HI",
+        "city": "hilo",
+        "color": "black",
+        "model": "F-250",
+        "year": 2017,
+        "condition": "excellent",
+        "price": 50000,
+        "description": "<p>The&nbsp;<strong>Ford Super Duty</strong>&nbsp;(short for F-Series Super Duty) is a series of trucks manufactured by&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company\" title=\"Ford Motor Company\">Ford Motor Company</a>. Introduced in 1998 for the 1999 model year, the F-Series Super Duty trucks marked the addition of a heavy-duty pickup to the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_F-Series\" title=\"Ford F-Series\">Ford F-Series</a>&nbsp;range with the new versions of the F-250, F-350, and F-450 pickups, while the previous 1987&ndash;1997 F-Super Duty&nbsp;<a href=\"https://en.wikipedia.org/wiki/Chassis_cab\" title=\"Chassis cab\">chassis cabs</a>&nbsp;were replaced by the F-450 chassis cab and F-550 Super Duty.</p>",
+        "car_photo": "photod/2020/08/18/1894300894.jpg",
+        "car_photo_1": "photod/2020/08/18/1894300905.jpg",
+        "car_photo_2": "photod/2020/08/18/1894300920.jpg",
+        "car_photo_3": "photod/2020/08/18/1900155012.jpg",
+        "car_photo_4": "photod/2020/08/18/1900155133.jpg",
+        "features": "Alarm System,Direct Fuel Injection,Bluetooth Handset",
+        "body_style": "sport",
+        "engine": "3.4L Mid-Engine V6",
+        "transmission": "automatic",
+        "interior": "black",
+        "miles": 18000,
+        "doors": "2",
+        "passengers": 2,
+        "vin_no": "Trs4678kjkji",
+        "milage": 8,
+        "fuel_type": "diesel",
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_date": "2020-08-18T12:04:10Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 4,
+    "fields": {
+        "car_title": "Jaguar F-Pace",
+        "state": "GA",
+        "city": "macon",
+        "color": "ice blue",
+        "model": "F-pace",
+        "year": 2017,
+        "condition": "excellent",
+        "price": 45000,
+        "description": "<p>The&nbsp;<strong>Jaguar F-Pace</strong>&nbsp;(codename X761) is a&nbsp;<a href=\"https://en.wikipedia.org/wiki/Compact_executive_car\" title=\"Compact executive car\">compact luxury</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Crossover_SUV\" title=\"Crossover SUV\">crossover SUV</a>&nbsp;made by British&nbsp;<a href=\"https://en.wikipedia.org/wiki/Automaker\" title=\"Automaker\">car manufacturer</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jaguar_Land_Rover\" title=\"Jaguar Land Rover\">Jaguar Land Rover</a>&nbsp;under their&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jaguar_Cars\" title=\"Jaguar Cars\">Jaguar marque</a>, the first model to be built by Jaguar in the crossover SUV class. It was formally announced at the&nbsp;<a href=\"https://en.wikipedia.org/wiki/North_American_International_Auto_Show#2015\" title=\"North American International Auto Show\">2015 North American International Auto Show</a>&nbsp;in Detroit, with sales commencing in 2016 following an unveiling at the&nbsp;<a href=\"https://en.wikipedia.org/wiki/International_Motor_Show_Germany#2015\" title=\"International Motor Show Germany\">International Motor Show Germany</a>&nbsp;in Frankfurt in September 2015.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-4\">[4]</a>&nbsp;The design of the F-Pace is based on the 2013&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jaguar_C-X17\" title=\"Jaguar C-X17\">Jaguar C-X17</a>&nbsp;concept car.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-BBC_News_120115-5\">[5]</a>&nbsp;The 2017 Jaguar F-PACE has been named the honorary winner of the 2017 World Car of the Year and World Car Design of the Year Awards at the&nbsp;<a href=\"https://en.wikipedia.org/wiki/New_York_International_Auto_Show\" title=\"New York International Auto Show\">New York International Auto Show</a>.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-6\">[6]</a></p>",
+        "car_photo": "photod/2020/08/18/1902932503.jpg",
+        "car_photo_1": "photod/2020/08/18/1902932514.jpg",
+        "car_photo_2": "photod/2020/08/18/1902932528.jpg",
+        "car_photo_3": "photod/2020/08/18/1902932542.jpg",
+        "car_photo_4": "",
+        "features": "Cruise Control,Audio Interface,Alarm System,ParkAssist,Auto Start/Stop",
+        "body_style": "SUV",
+        "engine": "3.4L Mid-Engine V4",
+        "transmission": "manual",
+        "interior": "grey",
+        "miles": 14000,
+        "doors": "4",
+        "passengers": 5,
+        "vin_no": "tyejFF577u4jnkdi",
+        "milage": 4,
+        "fuel_type": "petrol",
+        "no_of_owners": "1",
+        "is_featured": false,
+        "created_date": "2020-08-18T12:12:27Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 5,
+    "fields": {
+        "car_title": "2018 Toyota 4Runner",
+        "state": "GA",
+        "city": "Atlanta",
+        "color": "grey",
+        "model": "4Runner",
+        "year": 2018,
+        "condition": "used",
+        "price": 15000,
+        "description": "<p>The&nbsp;<strong>Toyota 4Runner</strong>&nbsp;is a compact, later mid-size&nbsp;<a href=\"https://en.wikipedia.org/wiki/Sport_utility_vehicle\" title=\"Sport utility vehicle\">sport utility vehicle</a>&nbsp;produced by the Japanese manufacturer&nbsp;<a href=\"https://en.wikipedia.org/wiki/Toyota\" title=\"Toyota\">Toyota</a>&nbsp;and sold throughout the world from 1984 to present. In Japan, it is known as the&nbsp;<strong>Toyota Hilux Surf</strong>&nbsp;(Japanese: \u30c8\u30e8\u30bf\u30fb\u30cf\u30a4\u30e9\u30c3\u30af\u30b9\u30b5\u30fc\u30d5,&nbsp;<em>Toyota Hairakkusus\u0101fu</em>)&nbsp;which was withdrawn from the market in 2009. The original 4Runner was a&nbsp;<a href=\"https://en.wikipedia.org/wiki/Compact_SUV\" title=\"Compact SUV\">compact SUV</a>&nbsp;and little more than a Toyota pickup truck with a fiberglass shell over the bed, but the model has since undergone significant independent development into a cross between a compact and a mid-size SUV. All 4Runners have been built in Japan at Toyota&#39;s&nbsp;<a href=\"https://en.wikipedia.org/wiki/Tahara_plant\" title=\"Tahara plant\">plant</a>&nbsp;in&nbsp;<a href=\"https://en.wikipedia.org/wiki/Tahara,_Aichi\" title=\"Tahara, Aichi\">Tahara, Aichi</a>, or at the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Hino_Motors\" title=\"Hino Motors\">Hino Motors</a>&nbsp;(a Toyota subsidiary) plant in&nbsp;<a href=\"https://en.wikipedia.org/wiki/Hamura\" title=\"Hamura\">Hamura</a></p>",
+        "car_photo": "photod/2020/08/18/1893633875.jpg",
+        "car_photo_1": "photod/2020/08/18/1893633879.jpg",
+        "car_photo_2": "photod/2020/08/18/1893633884.jpg",
+        "car_photo_3": "photod/2020/08/18/1896836883.jpg",
+        "car_photo_4": "photod/2020/08/18/1896836887.jpg",
+        "features": "Air Conditioning,ParkAssist,Direct Fuel Injection,Wind Deflector",
+        "body_style": "SUV",
+        "engine": "3.4L Mid-Engine V4",
+        "transmission": "automatic",
+        "interior": "white",
+        "miles": 13000,
+        "doors": "5",
+        "passengers": 7,
+        "vin_no": "HBJ234HJHUhj45",
+        "milage": 7,
+        "fuel_type": "diesel",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2020-08-18T12:17:06Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 6,
+    "fields": {
+        "car_title": "2018 Toyota Corolla",
+        "state": "HI",
+        "city": "hilo",
+        "color": "white",
+        "model": "corolla",
+        "year": 2020,
+        "condition": "used",
+        "price": 12000,
+        "description": "<p>The&nbsp;<em>2018 Toyota Corolla</em>&nbsp;ranks in the middle third of the compact car class. It has a great predicted reliability rating, and it&#39;s loaded with&nbsp;...</p>",
+        "car_photo": "photod/2020/08/18/1900893299.jpg",
+        "car_photo_1": "photod/2020/08/18/1900893311.jpg",
+        "car_photo_2": "photod/2020/08/18/1900893319.jpg",
+        "car_photo_3": "photod/2020/08/18/1900893329.jpg",
+        "car_photo_4": "photod/2020/08/18/1900893391.jpg",
+        "features": "Audio Interface,Alarm System,Power Steering,Direct Fuel Injection",
+        "body_style": "SUV",
+        "engine": "3.4L Mid-Engine V4",
+        "transmission": "manual",
+        "interior": "white",
+        "miles": 12000,
+        "doors": "4",
+        "passengers": 4,
+        "vin_no": "UIUJJM4678jknkjoi",
+        "milage": 5,
+        "fuel_type": "petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2020-08-18T12:21:57Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 2,
+    "fields": {
+        "first_name": "Martin",
+        "last_name": "Smith",
+        "designation": "Founder",
+        "photo": "photo/2020/08/16/avatar-11.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twittter.com",
+        "google_link": "https://google.com",
+        "created_date": "2020-08-16T13:18:33.987Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 3,
+    "fields": {
+        "first_name": "Stone",
+        "last_name": "Carolyn",
+        "designation": "Creative Director",
+        "photo": "photo/2020/08/16/avatar-9.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twittter.com",
+        "google_link": "https://google.com",
+        "created_date": "2020-08-16T13:19:47.477Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 4,
+    "fields": {
+        "first_name": "Brandon",
+        "last_name": "Miller",
+        "designation": "Co-Founder",
+        "photo": "photo/2020/08/16/avatar-1.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twittter.com",
+        "google_link": "https://google.com",
+        "created_date": "2020-08-16T13:21:04.640Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 5,
+    "fields": {
+        "first_name": "John",
+        "last_name": "Doe",
+        "designation": "CEO",
+        "photo": "photo/2020/08/16/avatar-12.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twittter.com",
+        "google_link": "https://google.com",
+        "created_date": "2020-08-16T13:23:27.482Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 6,
+    "fields": {
+        "first_name": "Michelle",
+        "last_name": "Nelson",
+        "designation": "Support Manager",
+        "photo": "photo/2020/08/16/avatar-10.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twittter.com",
+        "google_link": "https://google.com",
+        "created_date": "2020-08-16T13:24:40.962Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 1,
+    "fields": {
+        "first_name": "joseph ",
+        "last_name": "joe",
+        "car_id": 6,
+        "customer_need": "I'm interested in this",
+        "car_title": "2018 Toyota Corolla",
+        "city": "Austin",
+        "state": "Texas",
+        "email": "joey@gmail.com",
+        "phone": "6673289488",
+        "message": "need to know more information.",
+        "user_id": 1,
+        "create_date": "2020-08-25T12:48:59.303Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 2,
+    "fields": {
+        "first_name": "Rachel",
+        "last_name": "Green",
+        "car_id": 6,
+        "customer_need": "I'd like a history report for this",
+        "car_title": "2018 Toyota Corolla",
+        "city": "Atlanta",
+        "state": "Texas",
+        "email": "rachel@gmail.com",
+        "phone": "79264892784",
+        "message": "want a background report",
+        "user_id": 1,
+        "create_date": "2020-08-25T12:59:12.456Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 3,
+    "fields": {
+        "first_name": "kajal",
+        "last_name": "poojari",
+        "car_id": 5,
+        "customer_need": "I'm interested in this",
+        "car_title": "2018 Toyota 4Runner",
+        "city": "mumbai",
+        "state": "Texas",
+        "email": "kajalpoojari555@gmail.com",
+        "phone": "6673289488",
+        "message": "uhdu",
+        "user_id": 1,
+        "create_date": "2020-09-01T00:56:23.823Z"
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$MWFEASruBNRp$eYePzr3HTIQtxlwB5nP02XQEIbfiKIIgeloixwFns3E=",
+        "last_login": "2020-09-01T10:23:53.346Z",
+        "is_superuser": true,
+        "username": "django",
+        "first_name": "kajal",
+        "last_name": "poojari",
+        "email": "kajalpoojari555@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2020-08-15T19:57:27Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$gdhhiZN51mxY$qluqumCymHdFu+YUfZL/gU8yu8aP7pFVeaHFLdeFzZk=",
+        "last_login": "2020-08-22T14:00:08.460Z",
+        "is_superuser": false,
+        "username": "djangoadmin",
+        "first_name": "kajal",
+        "last_name": "poojari",
+        "email": "kp9898@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-08-21T21:05:37.811Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!4EvYcnU3vddHBQTwblX4X0sfXODTWKJUKcsPc27g",
+        "last_login": "2020-08-23T12:59:20.257Z",
+        "is_superuser": false,
+        "username": "kajal",
+        "first_name": "Kajal",
+        "last_name": "Poojari",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-08-23T12:53:07.720Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!FlIkJdRmNpqZ5uNv8UiChEhEOXK7GS0A2WuEwzsy",
+        "last_login": "2020-08-23T14:21:44.345Z",
+        "is_superuser": false,
+        "username": "kajal1",
+        "first_name": "Kajal",
+        "last_name": "Poojari",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-08-23T14:21:44.271Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$uwb1hkkrIXwz$n9hziBOmZWswjDRV/Lo+qBUDV9Un5VrlIsxCjpeNH54=",
+        "last_login": "2020-09-01T07:52:34.776Z",
+        "is_superuser": false,
+        "username": "ross99",
+        "first_name": "ross",
+        "last_name": "geller",
+        "email": "rossgelleer99@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-09-01T07:52:34.355Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "7u5pvjsjmdkxp8c4mz1041l74pkbb5oh",
+    "fields": {
+        "session_data": "ZWY2YmUyYjU2MDI4N2ZmMDIwZWZmYTUxOGI0NmIyMzRiNjgyMGRhMTp7ImFjY291bnRfdmVyaWZpZWRfZW1haWwiOm51bGwsImFjY291bnRfdXNlciI6IjMifQ==",
+        "expire_date": "2020-09-06T12:53:07.829Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "9lqk6x5b4h7uy8a9336u52oio5yvdcoz",
+    "fields": {
+        "session_data": "NjVmMGU1MDE2NjQzNDllYTE3MTFkYjBlMzczMGFiMGNlNWUwNGNkMzp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI4NWZhMTRhNDQ5MDBlZWRiNmEyYWQwOWM3NmI3NGZhYmZlMmMzZTkxIn0=",
+        "expire_date": "2020-09-15T10:23:53.349Z"
+    }
+},
+{
+    "model": "sites.site",
+    "fields": {
+        "domain": "localhost:8000",
+        "name": "localhost:8000"
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 1,
+    "fields": {
+        "provider": "facebook",
+        "name": "facebook login",
+        "client_id": "757046301696637",
+        "secret": "7bebd24d0c41b5d6a3ea5708941650ef",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 2,
+    "fields": {
+        "provider": "google",
+        "name": "Google Login",
+        "client_id": "110249295379-1lhi015fv7jq5hu81tg6s5puuro90cdu.apps.googleusercontent.com",
+        "secret": "6BDphC8h95AwjJp9-T_Gvu8G",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "kajal"
+        ],
+        "provider": "facebook",
+        "uid": "3022836584609728",
+        "last_login": "2020-08-23T12:59:20.235Z",
+        "date_joined": "2020-08-23T12:53:07.780Z",
+        "extra_data": "{\"id\": \"3022836584609728\", \"name\": \"Kajal Poojari\", \"first_name\": \"Kajal\", \"last_name\": \"Poojari\"}"
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 2,
+    "fields": {
+        "user": [
+            "kajal1"
+        ],
+        "provider": "google",
+        "uid": "102560877397122366586",
+        "last_login": "2020-08-23T14:21:44.308Z",
+        "date_joined": "2020-08-23T14:21:44.308Z",
+        "extra_data": "{\"id\": \"102560877397122366586\", \"name\": \"Kajal Poojari\", \"given_name\": \"Kajal\", \"family_name\": \"Poojari\", \"picture\": \"https://lh4.googleusercontent.com/-k_OgNoJR4B4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucliwtMWEKOPayWEQ1BwdOWI-qm2pw/photo.jpg\", \"locale\": \"en-GB\"}"
+    }
+},
+{
+    "model": "socialaccount.socialtoken",
+    "pk": 1,
+    "fields": {
+        "app": 1,
+        "account": 1,
+        "token": "EAAKwh5PkIn0BAMu6HmnBoxy65Kft71nGvN8HbdZCyM7spVKzQUBlwyPbrDMD5Iai6oe3SELdjIbxN3ZBwvZAOxik1UjkZCo2otD4QXSGaoHBCuZBx01Vtx25peRbtKDZAn5U5RMJwcGdT8VGOR2HUxZA7xkomQQZAgAgQJcwmbbnQQZDZD",
+        "token_secret": "",
+        "expires_at": "2020-10-22T12:53:00.989Z"
+    }
+},
+{
+    "model": "socialaccount.socialtoken",
+    "pk": 2,
+    "fields": {
+        "app": 2,
+        "account": 2,
+        "token": "ya29.a0AfH6SMDHBmpJ9f6sIRrLiF872_w_rGte3qq_jN4XzfqlCBDPkdfHY5EoVGNFhvmPdJfLZegNXK0BbUfSfRTNcsdGja663e8VkUignKyVxdETv3JlrTsW00gQFlol9MpoDozU8JaNeNQyfnqgdbU0WwL7hk849Lc76VQ",
+        "token_secret": "",
+        "expires_at": "2020-08-23T15:21:42.990Z"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2020-08-15T20:11:51.034Z",
+        "user": [
+            "django"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "django",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2020-08-16T12:31:25.051Z",
+        "user": [
+            "django"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Team object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2020-08-16T13:14:02.997Z",
+        "user": [
+            "django"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "kajal",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2020-08-16T13:16:18.443Z",
+        "user": [
+            "django"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "kajal",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2020-08-16T13:18:33.990Z",
+        "user": [
+            "django"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Martin",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2020-08-16T13:19:47.481Z",
+        "user": [
+            "django"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Stone",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2020-08-16T13:21:04.642Z",
+        "user": [
+            "django"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Brandon",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2020-08-16T13:23:27.485Z",
+        "user": [
+            "django"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "John",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2020-08-16T13:24:40.965Z",
+        "user": [
+            "django"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "6",
+        "object_repr": "Michelle",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2020-08-18T18:37:10.674Z",
+        "user": [
+            "django"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Car object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2020-08-18T19:03:58.611Z",
+        "user": [
+            "django"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2017 Ford Edge",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2020-08-18T19:11:09.248Z",
+        "user": [
+            "django"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2017 Ford F-250 Super Duty",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2020-08-18T19:16:56.972Z",
+        "user": [
+            "django"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "Jaguar F-Pace",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2020-08-18T19:21:51.223Z",
+        "user": [
+            "django"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "2018 Toyota 4Runner",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2020-08-18T19:27:28.685Z",
+        "user": [
+            "django"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "2018 Toyota Corolla",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2020-08-18T20:30:57.789Z",
+        "user": [
+            "django"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "Jaguar F-Pace",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2020-08-18T20:30:57.796Z",
+        "user": [
+            "django"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2017 Ford Edge",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2020-08-22T19:26:53.456Z",
+        "user": [
+            "django"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "facebook login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2020-08-22T20:19:17.988Z",
+        "user": [
+            "django"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8000",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2020-08-23T14:04:29.016Z",
+        "user": [
+            "django"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "2",
+        "object_repr": "Google Login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}
+]
